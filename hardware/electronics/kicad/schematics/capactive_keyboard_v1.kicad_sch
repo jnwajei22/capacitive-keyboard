@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "435bbb30-2834-464b-b17a-3a614df9eb21")
+	(paper "A1")
+	(lib_symbols)
+	(sheet
+		(at 15.24 565.15)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1d562781-61e3-4323-9680-0d1ab9605551")
+		(property "Sheetname" "DISPLAY"
+			(at 15.24 564.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "display.kicad_sch"
+			(at 15.24 569.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "capactive_keyboard_v1"
+				(path "/435bbb30-2834-464b-b17a-3a614df9eb21"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 538.48)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7dfc9bd1-6ff2-4d04-a1a0-3e49cfce1f03")
+		(property "Sheetname" "POWER"
+			(at 15.24 537.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_block.kicad_sch"
+			(at 15.24 542.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "capactive_keyboard_v1"
+				(path "/435bbb30-2834-464b-b17a-3a614df9eb21"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 574.04)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "822faf10-0198-490a-85c3-c38858460684")
+		(property "Sheetname" "RGB"
+			(at 15.24 573.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rgb_block.kicad_sch"
+			(at 15.24 578.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "capactive_keyboard_v1"
+				(path "/435bbb30-2834-464b-b17a-3a614df9eb21"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 556.26)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c26ebe71-550c-4485-9e96-6d901ee1f8dc")
+		(property "Sheetname" "KEY_MATRIX"
+			(at 15.24 555.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "key_matrix.kicad_sch"
+			(at 15.24 560.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "capactive_keyboard_v1"
+				(path "/435bbb30-2834-464b-b17a-3a614df9eb21"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 547.37)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eb4b8a61-3546-408d-adc9-23990a2d6bee")
+		(property "Sheetname" "MCU_CORE"
+			(at 15.24 546.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu_core.kicad_sch"
+			(at 15.24 551.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "capactive_keyboard_v1"
+				(path "/435bbb30-2834-464b-b17a-3a614df9eb21"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

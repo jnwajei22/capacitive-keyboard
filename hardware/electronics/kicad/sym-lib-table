@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "1N4148W")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/1N4148W.kicad_sym")(options "")(descr ""))
+  (lib (name "BQ24075RGTT")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/BQ24075RGTT.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX17048G_T10")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/MAX17048G_T10.kicad_sym")(options "")(descr ""))
+  (lib (name "MDBT50Q-1MV2")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/MDBT50Q-1MV2.kicad_sym")(options "")(descr ""))
+  (lib (name "MIC2875-5.0YMT-TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/MIC2875-5.0YMT-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPD2E2U06DRLR")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/TPD2E2U06DRLR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS7A2033PDBVR")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/TPS7A2033PDBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+  (lib (name "WS2812-2020_LED")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/WS2812-2020_LED.kicad_sym")(options "")(descr ""))
+)
